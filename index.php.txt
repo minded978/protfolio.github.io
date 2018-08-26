@@ -1,0 +1,150 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>@CrypticWizard(Md Ariful Islam Protik)</title>
+    <meta name="description" content="A Portfolio Of CrypticWizard - Ariful Islam Protik">
+    <link rel="icon" href="http://icons.iconarchive.com/icons/webalys/kameleon.pics/32/Man-14-icon.png" type="image/png">
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+
+<body>
+    <header>
+        
+            <div class="headbg">
+                <div class="head-text">
+                    <center>
+                        <h1>
+            @CrypticWizard</h1></center>
+                </div>
+            </div>
+            <div class="imghead">
+                <div class="imghead2">
+                    <img src="pro.jpg" class="img-fluid" width="300" height="300">
+                </div>
+            </div>
+        
+    </header>
+    <section>
+        <div class="contaienr-fluid">
+            <div class="name">
+                <h1>Md Ariful Islam Protik</h1>
+            </div>
+            <div class="work">
+                <i class="fa fa-briefcase" aria-hidden="true"></i> Web Designer And Programmer
+                <br>
+                <i class="fa fa-home" aria-hidden="true"></i> Mymensingh, Bangladesh
+                <br>
+                <i class="fa fa-envelope" aria-hidden="true"></i> mdarifulislam.protik@gmail.com
+            </div>
+            <div class="social">
+                <a href="https://www.facebook.com/CrypticWizardPr" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i> @CrypticWizardPr
+                </a>
+                <a href="https://twitter.com/CrypticWizardPr" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i>
+ @CrypticWizardPr
+                </a>
+                <a href="https://www.instagram.com/CrypticWizardPr/" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i> @CrypticWizardPr
+                </a>
+            </div>
+            <div class="social">
+                <a href="https://github.com/CrypticWizard" target="_blank"><i class="fa fa-github" aria-hidden="true"></i> @CrypticWizard
+                </a>
+            </div>
+        
+    </section>
+    <section>
+        <div class="skillx">
+            <div class="name">
+                <center>
+                    <h1>Skills</h1>
+                </center>
+            </div>
+            <div class="skills">
+                <div class="row">
+                    <div class="col-sm-12 col-md-3 col-xs-3">
+                        <div class="skillclass">
+                            <div class="text"><span>95%</span>
+                                <br>HTML5</div>
+                        </div>
+                    </div>
+                    <div class="col-sm-12 col-md-3 col-xs-3">
+                        <div class="skillclass2">
+                            <div class="text"><span>95%</span>
+                                <br>CSS</div>
+                        </div>
+                    </div>
+                    <div class="col-sm-12 col-md-3 col-xs-3">
+                        <div class="skillclass3">
+                            <div class="text"><span>60%</span>
+                                <br>JavaScript</div>
+                        </div>
+                    </div>
+                    <div class="col-sm-12 col-md-3 col-xs-3">
+                        <div class="skillclass4">
+                            <div class="text"><span>70%</span>
+                                <br>PHP</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section>
+        <div class="wrap">
+            <div class="row">
+                <div class="col-sm-6 col-md-6">
+                    <div class="github">
+                        <a href="http://github.com/CrypticWizard" target="_blank">
+         <i class="fa fa-github" aria-hidden="true"></i>
+                
+    </a>
+                    </div>
+                </div>
+                <div class="col-sm-6 col-md-6">
+                    <div class="repo">
+                        <ul>
+                            <li><a href="https://github.com/CrypticWizard/Complete-Login-And-Registration-System" target="_blank">Complete-Login-And-Registration-System</a></li>
+                            <li> <a href="#">
+                                More Coming Soon 
+                            </a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+<section>
+    <div class="about">
+            <div class="row">
+                <div class="col-sm-6 ">
+                    <div class="aboutme1">
+                    <div class="aboutme">
+                        <h2>About Me </h2>
+                    </div>
+                </div>
+                </div>
+                <div class="col-sm-6">
+                    <div class="detail1">
+                    <div class="detail">
+                        <p>
+                            This is CrypticWizard. A Newbie  Leaner On cyber Space. Trying to learn Programming Language And About Cyber Security. Most Favorite Language Is PHP. Trying To Dive Into Deep of This Language. May <strong>Almighty ALLAH</strong> Help Us.
+                        </p>
+                    </div>
+                    </div>
+                    
+                </div>
+            </div>
+        </div>
+</section>
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js"></script>
+</body>
+<div class="end">Simple Portfolio Of CrypticWizard</div>
+
+</html>
